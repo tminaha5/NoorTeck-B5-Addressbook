@@ -72,7 +72,7 @@ public class AddressbookPage extends CommonUI{
 	public AddressbookPage() {
 		PageFactory.initElements(driver, this);
 		
-	}
+	} 
 	
 	public void clickNewAddress() {
 		click(newAddressField);

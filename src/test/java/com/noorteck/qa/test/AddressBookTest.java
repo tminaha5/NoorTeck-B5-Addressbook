@@ -16,7 +16,7 @@ public class AddressBookTest extends ObjInitialize {
 
 		CommonUI.quitBrowser();
 
-	}
+	} 
 
 	// Test case 1
 	public static void AddressTestOne() { 
